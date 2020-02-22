@@ -1,0 +1,2 @@
+# note-directory
+My notes
